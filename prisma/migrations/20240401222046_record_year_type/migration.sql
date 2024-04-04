@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "Record" ALTER COLUMN "year" SET DATA TYPE TEXT;
